@@ -1,0 +1,32 @@
+0,produit,catégorie,prix unitaire
+1,Roue codeuse,Composants servant d'interface humaine,2.36
+2,Capteur de luminosité,Capteur,13.92
+3,Afficheur,Composants servant d'interface humaine,26.28
+4,Interrupteur,Composants servant d'interface humaine,9.03
+5,Gyroscope,Capteur,10.62
+6,Mémoire informatique,Composants d'électroniques numériques,24.25
+7,Diode,Composants d'électroniques analogiques,24.02
+8,Microcontrôleur,Composants d'électroniques numériques,28.06
+9,Haut-parleur,Composants servant d'interface humaine,15.14
+10,Thermistance,Capteur,20.86
+11,Condensateur,Composants d'électroniques analogiques,33.64
+12,Capteur de champ magnétique,Capteur,15.28
+13,LED,Composants servant d'interface humaine,3.75
+14,Opto-coupleur,Composants d'électroniques numériques,31.17
+15,Quartz,Composants d'électroniques numériques,16.64
+16,Microprocesseur,Composants d'électroniques numériques,6.38
+17,Memristor,Composants d'électroniques analogiques,24.43
+18,Potentiomètre,Composants servant d'interface humaine,8.29
+19,Résistance,Composants d'électroniques analogiques,23.41
+20,Capteur optique,Capteur,14.79
+21,Transistor,Composants d'électroniques analogiques,33.63
+22,Régulateur de tension,Composants d'électroniques analogiques,30.19
+23,Microphone,Capteur,12.37
+24,Inductance,Composants d'électroniques analogiques,12.29
+25,Capteur de température,Capteur,26.41
+26,Accéléromètre,Capteur,10.93
+27,Buzzer,Composants servant d'interface humaine,31.83
+28,Commutateur,Composants servant d'interface humaine,2.53
+29,Caméra,Capteur,26.85
+30,Capteur de pression,Capteur,12.1
+31,Photocoupleur,Composants d'électroniques analogiques,10.28
